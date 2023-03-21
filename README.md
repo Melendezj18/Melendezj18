@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### Mongoose/Express/React/Node Team project.
 
-An event registration app for an adventure race that I organize built with a team.  I was the Lead Back End developer, as well as Deployment Manager.   [Jose Melendez](https://github.com/Melendezj18) was the GitHub manager and handled front end functionality, [Edward Ho](https://github.com/Speckoh) was Lead Front End and styling, and [Tim Martinson](https://github.com/TimMMartinson) was our Scrum Master and worked on Front End styling.
+An event registration app for an adventure race that I built with a team.  I was the GitHub manager and Lead front end functionality.   [Pat Goral](https://github.com/Patgoral) was Lead Back End developer, as well as Deployment Manager, [Edward Ho](https://github.com/Speckoh) was Front End and Lead styling, and [Tim Martinson](https://github.com/TimMMartinson) was our Scrum Master and worked on Front End styling.
 
 ### Check it out here : [Stub-Crud Event Registration App](https://stubcrudclient.onrender.com/)
 
